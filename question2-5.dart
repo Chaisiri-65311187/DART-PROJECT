@@ -3,6 +3,6 @@ void main() {
     if (i == 41) {
       continue; // ข้ามการพิมพ์เลข 41
     }
-    print(i);
+    print(i); // พิมพ์ตัวเลข
   }
 }
